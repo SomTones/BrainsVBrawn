@@ -1,0 +1,66 @@
+{
+  "played": [
+    "brawn_001",
+    "brains_005",
+    "beers_003",
+    "brains_001",
+    "brains_004",
+    "beers_002",
+    "brawn_002",
+    "brawn_006",
+    "brawn_004",
+    "brawn_009"
+  ],
+  "history": [
+    {
+      "ts": 1767155357929,
+      "category": "brawn",
+      "id": "brawn_001"
+    },
+    {
+      "ts": 1767155913583,
+      "category": "brains",
+      "id": "brains_005"
+    },
+    {
+      "ts": 1767156156470,
+      "category": "beers",
+      "id": "beers_003"
+    },
+    {
+      "ts": 1767157317950,
+      "category": "brains",
+      "id": "brains_001"
+    },
+    {
+      "ts": 1767158986750,
+      "category": "brains",
+      "id": "brains_004"
+    },
+    {
+      "ts": 1767159682582,
+      "category": "beers",
+      "id": "beers_002"
+    },
+    {
+      "ts": 1767161728341,
+      "category": "brawn",
+      "id": "brawn_002"
+    },
+    {
+      "ts": 1767161735925,
+      "category": "brawn",
+      "id": "brawn_006"
+    },
+    {
+      "ts": 1767163479216,
+      "category": "brawn",
+      "id": "brawn_004"
+    },
+    {
+      "ts": 1767163497065,
+      "category": "brawn",
+      "id": "brawn_009"
+    }
+  ]
+}

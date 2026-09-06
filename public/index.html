@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Brains, Brawn, n Beers</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<main class="wrap">
+    <header class="top">
+        <div class="brand">BRAINS, BRAWN, N BEERS</div>
+        <div class="status" id="status">Ready</div>
+    </header>
+
+    <section class="buttons">
+        <button class="cat brains" data-category="brains">
+            <div class="catName">Brains</div>
+            <div class="catHint">Blue</div>
+        </button>
+
+        <button class="cat brawn" data-category="brawn">
+            <div class="catName">Brawn</div>
+            <div class="catHint">Green</div>
+        </button>
+
+        <button class="cat beers" data-category="beers">
+            <div class="catName">Beers</div>
+            <div class="catHint">Red</div>
+        </button>
+    </section>
+
+    <section class="reveal" id="reveal">
+        <div class="pill" id="pill">—</div>
+        <h1 id="title">Pick a category</h1>
+        <p id="desc">Your selected game will appear here.</p>
+        <div class="exhausted" id="exhausted" hidden>
+            That category is out of games. Add more in <code>games.json</code> or reset session.
+        </div>
+    </section>
+
+    <footer class="controls">
+        <button id="nextRound">Next round (clear)</button>
+        <button id="undo">Undo last</button>
+        <button class="danger" id="resetSession">Reset session</button>
+    </footer>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>

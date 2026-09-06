@@ -1,0 +1,105 @@
+{
+  "beers": [
+    {
+      "id": "beers_001",
+      "title": "Split the G",
+      "description": "Individual. Each team selects one representative to compete. All selected players attempt to split the G on their drink. Any player who successfully splits the G earns points for their team. Multiple teams may score points in the same round."
+    },
+    {
+      "id": "beers_002",
+      "title": "The Blind Beer",
+      "description": "Individual. Each team selects one representative. Each selected player is blindfolded and given a beer to taste. If a player correctly identifies the brand, their team earns points."
+    },
+    {
+      "id": "beers_003",
+      "title": "Clash of Cans",
+      "description": "Individual. Each team selects one representative. All selected players are given a sealed can of beer and throw them simultaneously so the cans collide mid-air. If a player’s can ruptures, they must drink it immediately and are eliminated. The last remaining unbroken can wins points for their team."
+    },
+    {
+      "id": "beers_004",
+      "title": "Beerpees",
+      "description": "Individual. Each team selects one representative. All selected players must scull a full beer before starting. Once finished, they perform burpee broad jumps to a designated marker and back. The fastest player wins. Points are awarded to first, second, and third place teams."
+    },
+    {
+      "id": "beers_005",
+      "title": "Beer Lap with a friend",
+      "description": "Individual. Each team selects one representative. Competitors will scull one beer at the start line before completing one lap of the house. Competitors must carry their mannequin with them for the lap."
+    }
+  ],
+
+  "brawn": [
+    {
+      "id": "brawn_001",
+      "title": "Sally Up",
+      "description": "Team. All members of each team participate. Teams perform the 'Bring Sally Up' exercise together. Players are eliminated as they fail. The last remaining player scores points for their team. If multiple teams still have players remaining at the end, the team with the most remaining members scores."
+    },
+    {
+      "id": "brawn_002",
+      "title": "Rock in a Storm I",
+      "description": "Team. All members of each team participate. All players hold a plank simultaneously. Players are eliminated when they break form. The team with the final remaining player scores points."
+    },
+    {
+      "id": "brawn_003",
+      "title": "Rock in a Storm II",
+      "description": "Team. All members of each team participate. All players hold a wall sit simultaneously. Players are eliminated when they break form. The team with the final remaining player scores points."
+    },
+    {
+      "id": "brawn_004",
+      "title": "Nosepull",
+      "description": "Individual. Each team may nominate one competitor or decline to participate. Nominated players face off in a nosepull until one submits. The winner earns points for their team and gains a one-time power to choose a competitor from another team in a future mini-game."
+    },
+    {
+      "id": "brawn_005",
+      "title": "Waterboarding",
+      "description": "Individual. Each team may nominate one competitor or decline to participate. Each competitor undergoes water exposure for as long as they can tolerate. The longest-lasting player wins points for their team and gains a one-time power to choose a competitor from another team in a future mini-game."
+    },
+    {
+      "id": "brawn_006",
+      "title": "Reverse William Tell",
+      "description": "Duo. Each team selects two players. One player wears a motorcycle helmet and balances an arrow on their head. The second player throws apples attempting to land one onto the arrow. Points are awarded based on successful contact between the apple and arrow."
+    },
+    {
+      "id": "brawn_007",
+      "title": "Two Oranges with Colgate Challenge in the Middle",
+      "description": "Individual. Each team selects one representative. Each selected player must consume two small mandarins with a strip of Colgate toothpaste between them. Points are awarded at the discretion of the operator based on performance and overall vibes."
+    },
+    {
+      "id": "brawn_008",
+      "title": "Cinnamon Challenge",
+      "description": "Individual. Each team selects one representative. Each selected player consumes a spoonful of cinnamon without water. The player showing the most composure and least visible reaction earns points for their team."
+    },
+    {
+      "id": "brawn_009",
+      "title": "Bush Manoeuvre",
+      "description": "Each team selects on representative. The competitor will throw half a brick at a mannequin of their choosing because they are too unkiejay to throw a full brick."
+    }
+  ],
+
+  "brains": [
+    {
+      "id": "brains_001",
+      "title": "Blind Pictionary",
+      "description": "Team. Each team selects two players: one describer and one drawer. The describer is shown a prompt and verbally describes it while the drawer draws without seeing the prompt. The rest of the team guesses the drawing. Teams take turns, and correct guesses earn points."
+    },
+    {
+      "id": "brains_003",
+      "title": "Guess the Song",
+      "description": "Team. A song is played backwards. Teams work together and write their guess on a whiteboard. This is repeated three times with different songs. Points are awarded for each correct answer."
+    },
+    {
+      "id": "brains_004",
+      "title": "Who Uploaded This",
+      "description": "Team. A previously submitted Google Form upload is displayed on screen. Teams discuss and write down who they believe uploaded it. This is repeated three times. Points are awarded for each correct guess."
+    },
+    {
+      "id": "brains_005",
+      "title": "Memory Game",
+      "description": "Team. A page of objects is shown on screen for three seconds. Teams must collectively write down as many objects as they can remember. The team with the most correctly recalled objects earns points."
+    },
+    {
+      "id": "brains_006",
+      "title": "NY Games 24",
+      "description": "Team. Teams answer questions about the previous year’s games, including gift winners, overall winners, and team names. Points are awarded for each correct answer."
+    }
+  ]
+}
